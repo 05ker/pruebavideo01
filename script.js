@@ -12,8 +12,8 @@ const playerInstance = jwplayer("player").setup({
 
   logo: {
     file:
-      "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
-    link: "https://www.buymeacoffee.com/pingo"
+      "https://dl.dropbox.com/s/h72bugllv26hzxs/Picsart_23-02-05_07-23-24-159.png",
+    link: "  "
   },
 
   captions: {
