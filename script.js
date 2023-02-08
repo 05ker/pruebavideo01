@@ -3,6 +3,7 @@ jwplayer("container").setup({
 		    controls: true,
 		    displaytitle: true,
 		    fullscreen: "true",
+	stretching: "exactfit",
 		    primary: 'html5',
 		    
 		    autostart: true,
